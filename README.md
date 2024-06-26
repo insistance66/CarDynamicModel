@@ -1,6 +1,8 @@
 # CarDynamicModel
 
-This repository contains a Python script for a Car Dynamic Model. The script is designed to simulate and analyze the dynamics of a car under various conditions.
+This repository contains a Python script for a Car Dynamic Model. The script is designed to simulate and analyze the dynamics of a car under various conditions. The required data is extracted from the virtual driving system, SCANeR software.
+
+The data is 
 
 ## File Structure
 
